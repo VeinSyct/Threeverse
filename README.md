@@ -34,4 +34,8 @@ Import threeverse.js and the create a new virtual experience engine
       },delay:2400})
     }else console.log('No internet!')
 
-Call function create in the engine and start loading your GLTF/FBX assets in threeverse virtual experience engine
+Call function create in the engine and start loading your GLTF/FBX assets in threeverse virtual experience engine.
+
+The assets must be shared [CORS](https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS) allow all to be able for the threeverse engine to load from cross origin.
+
+
