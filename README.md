@@ -7,7 +7,7 @@ A **threejs** virtual experience engine library that allows loading of gltf/glb/
   
     let engine=new threeverse()
 
-Import threeverse.js and the create a new virtual experience engine
+Download threeverse and import threeverse.js in your project to create a new virtual experience engine
 
 **Initialization**
 
