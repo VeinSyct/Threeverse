@@ -9,7 +9,13 @@ A **threejs** virtual experience engine library that allows loading of gltf/glb/
 
 Download threeverse and import threeverse.js in your project to create a new virtual experience engine
 
-**Initialization**
+**Threejs FPS**
+
+![Screenshot 2023-12-31 100303](https://github.com/VeinSyct/Threeverse/assets/106228791/02310a1f-8f4d-4c45-8c77-7b51c76cb63f)
+
+Get model from threejs example [FPS first person shooter](https://threejs.org/examples/?q=fps#games_fps)
+
+**Usage**
 
     if(engine.create({id:'canvas-window',url:'https://realengine.web.app'})){
       engine.load({id:'canvas-window',url:'https://realengine.web.app',assets:[
@@ -37,6 +43,10 @@ Download threeverse and import threeverse.js in your project to create a new vir
 Call function create in the engine and start loading your GLTF/FBX assets in threeverse virtual experience engine.
 
 The assets must be shared [CORS](https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS) allow all to be able for the threeverse engine to load from cross origin.
+
+**Demo**
+
+![Screenshot 2023-12-31 100023](https://github.com/VeinSyct/Threeverse/assets/106228791/3d5a8f6b-f3ad-4c97-bb6d-612f6eca9564)
 
 [Demo](https://virtualtour.web.app/#tours=trenchterrain)
 
