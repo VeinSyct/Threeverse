@@ -58,7 +58,7 @@ Invisible Physics Mesh
 
 **Demo [Trench Terrain]**
 
-![Screenshot 2024-01-02 205430](https://github.com/VeinSyct/Threeverse/assets/106228791/718d75b3-6753-44c1-ba3b-d8e1e36058a5)
+![Screenshot 2024-01-02 205430](https://github.com/VeinSyct/Threeverse/assets/106228791/7dacc71b-32d4-4673-9450-1864bb21c8f8)
 
 [Demo](https://virtualtour.web.app/#tours=trenchterrain)
 
