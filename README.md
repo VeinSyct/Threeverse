@@ -44,6 +44,18 @@ Call function create in the engine and start loading your GLTF/FBX assets in thr
 
 The assets must be shared [CORS](https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS) allow all to be able for the threeverse engine to load from cross origin.
 
+**Game Level**
+
+A game level assets are GLT/FBX 3d models that will be seen in the scene and the invible collision mesh that will prevent your avatar, vehicles and other dynamic mesh from passing through wall or each other.
+
+Visible Mesh
+  1. type:'objectmesh'
+  2. type:'object'
+
+Invisible Physics Mesh
+  1. type:'trimesh'
+  2. type:'plyhedron'
+
 **Demo**
 
 ![Screenshot 2023-12-31 100023](https://github.com/VeinSyct/Threeverse/assets/106228791/3d5a8f6b-f3ad-4c97-bb6d-612f6eca9564)
