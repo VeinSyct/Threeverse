@@ -56,7 +56,7 @@ Invisible Physics Mesh
   1. type:'trimesh'
   2. type:'plyhedron'
 
-**Demo**
+**Demo [Trench Terrain]**
 
 ![Screenshot 2024-01-02 205430](https://github.com/VeinSyct/Threeverse/assets/106228791/718d75b3-6753-44c1-ba3b-d8e1e36058a5)
 
