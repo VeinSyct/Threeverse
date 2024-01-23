@@ -60,13 +60,13 @@ Invisible Physics Mesh
 
 ![Screenshot 2024-01-02 205430](https://github.com/VeinSyct/Threeverse/assets/106228791/7dacc71b-32d4-4673-9450-1864bb21c8f8)
 
-[Dowload](https://virtualtour.web.app/#tours=trenchterrain)
+[Demo](https://virtualtour.web.app/#tours=trenchterrain)
 
 **Demo [Toy car driving]**
 
 ![Screen Shot 2024-01-23 at 2 37 21 PM](https://github.com/VeinSyct/Threeverse/assets/106228791/2c8dde8a-7ba7-43b3-be67-c7fb4507931f)
 
-[Dowload](https://virtualtour.web.app/#tours=rtih)
+[Demo](https://virtualtour.web.app/#tours=rtih)
 
 **Resources:**
 
