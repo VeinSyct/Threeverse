@@ -40,7 +40,7 @@ class threeverse{
                 for(let j=0;j<3;j++)window[e.id+'-iframe'].src=e.url+'#assets='+JSON.stringify(car[j])
             }
             if(e.assets)for(let i=0;i<e.assets.length;i++)window[e.id+'-iframe'].src=e.url+'#assets='+JSON.stringify(Object.assign({},{
-                si:0,sl:['beatloop'],sh:null,zone:i==0?'ZONEA1':'zonea1'
+                si:0,sl:null,sh:null
             },e.assets[i]))
         },e.delay)
     }
