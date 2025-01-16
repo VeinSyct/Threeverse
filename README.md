@@ -1,7 +1,7 @@
 # Threeverse
 A **threejs** virtual experience engine library that allows loading of gltf/glb/fbx assets in threeverse
 
-https://youtu.be/caIVZHEn6QI?si=fEAfac1Vrllf0KJ5
+[Watch Demo](https://youtu.be/caIVZHEn6QI?si=fEAfac1Vrllf0KJ5)
 
 [**PEN**](https://codepen.io/VeinSyct/pen/gOVgEoV)
 
