@@ -99,6 +99,7 @@ Other demos:
 23. [Tsukoba Circuit](https://virtualtour.web.app/#tours=tsukobacircuit)
 24. [White Roundart Gallery](https://virtualtour.web.app/#tours=wrag)
 25. [Ancient Hall](https://virtualtour.web.app/#tours=ancient-hall)
+26. [Game Area City](https://virtualtour.web.app/#tours=gac)
 
 
 **Resources:**
