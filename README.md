@@ -1,12 +1,13 @@
 # Threeverse
 A **threejs** virtual experience engine library that allows loading of gltf/glb/fbx assets in threeverse
 
-[Watch Open World Demo](https://youtu.be/p9dJP648J44)
+[Live Demo](https://theneoverse.web.app/#threeviewer&&crateria)
 
+[Watch Open World Demo](https://youtu.be/hVHvHjK1QlU)
 
 [Watch Interior Demo](https://youtu.be/caIVZHEn6QI)
 
-[**PEN**](https://codepen.io/VeinSyct/pen/gOVgEoV)
+[**PEN**](https://codepen.io/VeinSyct/pen/gbOyawz)
 
 **Installation**
   
@@ -78,7 +79,7 @@ Invisible Physics Mesh
 Other demos:
 
 1. [Apartment](https://virtualtour.web.app/#tours=apartment)
-2. [Auditorium](https://virtualtour.web.app/#tours=auditorium)
+2. [Open world](https://theneoverse.web.app/#threeviewer&&crateria)
 3. [CS DDust](https://virtualtour.web.app/#tours=csddust)
 4. [Edge Apartment](https://virtualtour.web.app/#tours=edge-apartment)
 5. [Event](https://virtualtour.web.app/#tours=event)
