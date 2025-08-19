@@ -3,7 +3,9 @@ A **threejs** virtual experience engine library that allows loading of gltf/glb/
 
 [Live Demo](https://theneoverse.web.app/#threeviewer&&crateria)
 
-[Watch Open World Demo](https://youtu.be/hVHvHjK1QlU)
+[Wathc Avatar Demo](https://youtu.be/qDLx9W53mRM)
+
+[Watch Open World Demo](https://youtu.be/zMgGJ2GS_Yo)
 
 [Watch Interior Demo](https://youtu.be/caIVZHEn6QI)
 
