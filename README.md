@@ -3,16 +3,6 @@ A **threejs** virtual experience engine library that allows loading of gltf/glb/
 
 [Live Demo](https://theneoverse.web.app/#threeviewer&&crateria)
 
-[NPC Demo](https://theneoverse.web.app/#threeviewer&&load=19)
-
-[Watch Avatar Demo](https://youtu.be/qDLx9W53mRM)
-
-[Watch Open World Demo](https://youtu.be/zMgGJ2GS_Yo)
-
-[Watch Interior Demo](https://youtu.be/caIVZHEn6QI)
-
-[**PEN**](https://codepen.io/VeinSyct/pen/gbOyawz)
-
 **Installation**
   
     import{threeverse}from'./assets/js/threeverse.js'
