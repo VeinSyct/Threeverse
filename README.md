@@ -1,7 +1,9 @@
 # Threeverse
 A **threejs** virtual experience engine library that allows loading of gltf/glb/fbx assets in threeverse
 
-[Live Demo](https://theneoverse.web.app/#threeviewer&&crateria)
+[Immersive Demo](https://theneoverse.web.app/#serini&&serini)
+
+[Open World Demo](https://theneoverse.web.app/#threeviewer&&crateria)
 
 **Installation**
   
