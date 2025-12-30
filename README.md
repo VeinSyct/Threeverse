@@ -77,3 +77,5 @@ Other demos:
 13. [Outpost](https://theneoverse.web.app/#threeviewer&&outpost)
 14. [Underground Bunker](https://theneoverse.web.app/#threeviewer&&underground-bunker)
 15. [Brutalist Hall](https://theneoverse.web.app/#threeviewer&&brutalist-hall)
+16. [CS Offices](http://theneoverse.web.app/#threeviewer&&military-command-offices)
+17. [Halo Vista District](https://theneoverse.web.app/#threeviewer&&vistadistrict)
