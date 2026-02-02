@@ -84,3 +84,4 @@ Other demos:
 20. [Brutalist Hall](https://theneoverse.web.app/#threeviewer&&brutalist-hall)
 21. [CS Offices](http://theneoverse.web.app/#threeviewer&&military-command-offices)
 22. [Halo Vista District](https://theneoverse.web.app/#threeviewer&&vistadistrict)
+23. [Circle City](https://theneoverse.web.app/#threeviewer&&circle-city)
